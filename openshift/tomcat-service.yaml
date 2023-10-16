@@ -22,7 +22,6 @@ metadata:
   labels:
     app: tomcat
   name: tomcat-service
-  namespace: gitops-operator
 spec:
   host: tomcat-service-gitops-operator.apps.team1.team1.reca3.local
   port:
