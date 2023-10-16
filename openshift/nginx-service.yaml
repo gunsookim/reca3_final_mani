@@ -1,0 +1,15 @@
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-service
+  annotations:
+    metallb.universe.tf/ip-allocated-from-pool: my-ip-pool   # name of ip address pool
+spec:
+  selector:
+    app: nginx
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+  type: NodePort

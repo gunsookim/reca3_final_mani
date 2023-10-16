@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="992db930-b8de-4cf8-9051-db6721ff1a2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nginx-deploy.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx-hpa.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx-ingress.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tomcat-hpa.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tomcat-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tomcat-deploy.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    <list default="true" id="992db930-b8de-4cf8-9051-db6721ff1a2a" name="Changes" comment="yaml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,29 +23,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2Wo9WpoTjv9zvwIRhB6LnE3VU0f" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/김건수/spring/jpashop-v20210728/reca3_final_app/reca3_final_meni",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/김건수/spring/jpashop-v20210728/reca3_final_app/reca3_final_meni&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\김건수\spring\jpashop-v20210728\reca3_final_app\reca3_final_meni" />
@@ -72,11 +59,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697388100223</updated>
-      <workItem from="1697388101278" duration="1555000" />
+      <workItem from="1697388101278" duration="2245000" />
+      <workItem from="1697459234075" duration="308000" />
     </task>
+    <task id="LOCAL-00001" summary="yaml">
+      <option name="closed" value="true" />
+      <created>1697389689888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697389689888</updated>
+    </task>
+    <task id="LOCAL-00002" summary="yaml">
+      <option name="closed" value="true" />
+      <created>1697389709171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697389709171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="yaml">
+      <option name="closed" value="true" />
+      <created>1697389767589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697389767589</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="yaml" />
   </component>
 </project>
